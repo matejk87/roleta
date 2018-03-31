@@ -1,0 +1,17 @@
+konektorji:
+
+http://www.hitaltech.com/screwless-plugs/
+
+triaci SMD:
+http://www.digikey.com/product-search/en?pv842=1&pv842=197&pv842=11&pv842=2&pv842=12&pv842=3&pv842=25&pv842=10&pv842=14&pv842=13&pv842=58&pv842=18&pv842=264&pv842=242&FV=fff40015%2Cfff8052d%2C1140003%2C33c0004&k=triac&mnonly=0&newproducts=0&ColumnSort=0&page=1&quantity=0&ptm=0&fid=0&pageSize=100
+
+mikrokontrolerji:
+STM32F103C8T6  64KB flash  20KB ram  lqfp48
+STM32F030C8    64KB flash  8KB ram  lqfp48
+
+
+switcher:
+MCP16331T-E/CH   48V 1€  500mA
+ST1S14PHR
+A8499SLJ-T
+A8498SLJ-T

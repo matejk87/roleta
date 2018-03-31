@@ -1,0 +1,54 @@
+ROL2-A1:
+- 240k upori bi morali biti za vsak kanal posebej (drugaèe ne dela!)
+- premajhen pad za kristal
+- dodati ime borda na PCB
+- mogoèe logo?
+- varovalka?
+- mogoèe vse optzosklopnike na smd?
+- rs485 pretvornik - sprememba ohišja na so8!
+
+ROL2-B1:
+-+ premajhen pad za kristal
+- logo
+-+ rs485 preozki padi (podalšati pade)
+-+ premajhen pad za 1uF kondenzator 50V
+- mogoèe lahko bi dal kakšno drugo diodo v switcher z manjšo kolensko napetostjo (trenutno ss110)
+-+ vzeti kakšno veèje ohišje za diodo 1n4148
+-+ dodati 10K R1206 upor med Gate in MT2(stran bremena). Tako je potencial gata definiran ko ni vklopljen. 
+  Izgleda da to prepreèi samoproženje pri hitrem izklopu bremena!
+   http://www.edaboard.com/thread225743.html
+- mogoèe zamenjati optosklopnik za MOC3061 ki je zero cross?
+
+Poraba : 7mA pri 12V (84mW)
+
+ROL2-C1:
+
+
+
+
+Snubberless triac:
+https://www.digikey.com/products/en/discrete-semiconductor-products/thyristors-triacs/300?k=&pkeyword=&s=19999&FV=142c0057%2Cffe0012c&mnonly=0&newproducts=0&ColumnSort=0&page=1&quantity=10&ptm=0&fid=0&pageSize=25 
+
+kondenzatorji za snuber
+https://www.digikey.com/products/en/capacitors/film-capacitors/62?k=capacitor&k=&pkeyword=capacitor&pv2049=u0.1%C2%B5F&FV=1f140000%2Cffe0003e%2C1430007b%2C14300018%2C14300019%2C1430001b%2C1430001c%2C1430001e%2C1430001f&mnonly=0&ColumnSort=0&page=1&quantity=0&ptm=0&fid=0&pageSize=25
+
+10n 5x5mm
+https://www.digikey.com/product-detail/en/avx-corporation/CB042K0103K--/CB042K0103K-ND/3065346
+
+
+rele 10x6mm 4.6€
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=SS&DocLang=EN
+
+https://www.ebay.com/itm/Relais-AXICOM-V23079-D2003-B301-SMD-12VDC-2-Wechsler-2FormC-250V-2A-P2-SMT-Relay/380691842924?hash=item58a300876c:g:eqcAAOxyTMhR~TOn
+
+varovalka:
+http://si.farnell.com/littelfuse/0464004-dr/fuse-fast-acting-smd-4a/dp/1817209
+
+
+-NARROÈITI:
+diode 1n4148
+moc3023
+varovalke
+
+
+

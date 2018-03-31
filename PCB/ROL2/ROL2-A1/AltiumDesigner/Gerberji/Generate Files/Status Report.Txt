@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ROLETA2-A1.PcbDoc]
+   Generated File[ROLETA2-A1.TXT]
+   Generated File[ROLETA2-A1.LDP]
+   Generated File[ROLETA2-A1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:38:49 On 30. 06. 2016

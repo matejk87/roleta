@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: E:\projekti\smarhouse\roleta\PCB\ROL2\ROL2-B1\AltiumDesigner\ROL2-B1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=ClearanceEdge|Scope=Board|Minimum=4.00
